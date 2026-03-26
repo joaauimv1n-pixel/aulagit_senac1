@@ -1,0 +1,10 @@
+
+y = 10 
+x = 20
+z = 30
+a = 14
+b = 25 
+
+res1 = x * y * z
+res2 = a *b
+print (res1 + res2) 
